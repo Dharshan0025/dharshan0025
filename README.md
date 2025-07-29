@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshan0025&label=Profile%20views&color=0e75b6&style=flat" alt="dharshan0025" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharshan0025" alt="dharshan0025" /></a> </p>
-
 - 🔭 I’m currently working on [I’m currently working on: `NEURAL RESQ` – an AI-powered emergency alert system.](https://github.com/Dharshan0025/neural-resq.git)
 
 - 🌱 I’m currently learning **Spring Boot**
