@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharshan B</h1>
-<h3 align="center">🚀 Full-Stack Developer | 📱 React Native & Android </h3>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 AI/ML Enthusiast | 📱 React Native & Android </h3>
 
 <p align="center">
   <a href="https://github.com/Dharshan0025">
