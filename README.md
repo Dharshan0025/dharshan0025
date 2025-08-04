@@ -10,12 +10,6 @@
   <a href="https://github.com/Dharshan0025?tab=followers">
     <img src="https://img.shields.io/github/followers/Dharshan0025?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/Dharshan0025?tab=repositories">
-    <img src="https://img.shields.io/github/repos/Dharshan0025?label=Public+Repos&style=flat-square" alt="Public Repos"/>
-  </a>
-  <a href="https://github.com/Dharshan0025">
-    <img src="https://img.shields.io/github/last-commit/Dharshan0025?style=flat-square" alt="Last Commit"/>
-  </a>
 </p>
 
 ---
