@@ -39,15 +39,6 @@
 
 ---
 
-### 💬 Ask Me About
-
-- Web & Mobile Apps 🚀
-- Emergency Tech 🆘
-- AI/ML Models 🤖
-- Maps & Navigation 🗺️
-
----
-
 ### 📫 Connect with Me
 
 <p>
