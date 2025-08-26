@@ -64,15 +64,11 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
+ &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api?username=dharshan0025&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=dharshan0025&theme=yeblu&hide_border=false)<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan0025&layout=donut&theme=yeblu)<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharshan0025&show_icons=true&locale=en&theme=tokyonight" alt="dharshan0025" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshan0025&theme=tokyonight" alt="dharshan0025" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshan0025&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages"/>
-</p>
 
 ---
 # Activity Graph
